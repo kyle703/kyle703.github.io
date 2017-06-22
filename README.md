@@ -9,10 +9,10 @@ kyle703.github.io
     :depth: 1
     :backlinks: none
 
-===========
-Description
-===========
-`This <https://www.kyle703.github.io/>`_ is my personal website. 
+
+##  Description
+
+[This](https://www.kyle703.github.io/) is my personal website. 
 
 Project Structure
 -----------------
@@ -29,13 +29,13 @@ Directory Tree::
 	    └── about.html
 
 
-======================
-Ongoing Tasks/Thoughts
-======================
+
+##  Ongoing Tasks/Thoughts
+
 - add animations
 	- initial site visit
 	- are view counters too cheesy?
-	- fun DS stuff?
+	- fun D/S stuff?
 - variable background
 	- location
 	- weather
